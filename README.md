@@ -35,13 +35,13 @@ Actual time needed to complete: 26 min
 
 Number and name of feature: **#3 - Skills and Experience Section**
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 15 min
 
-Start time:
+Start time: 4:03
 
-Finish time:
+Finish time: 4:11
 
-Actual time needed to complete:
+Actual time needed to complete: 8 min
 
 Number and name of feature: **#4 - Personalization**
 
