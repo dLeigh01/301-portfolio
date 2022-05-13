@@ -45,10 +45,10 @@ Actual time needed to complete: 8 min
 
 Number and name of feature: **#4 - Personalization**
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 20 minutes
 
-Start time:
+Start time: 4:20
 
-Finish time:
+Finish time: 4:44
 
-Actual time needed to complete:
+Actual time needed to complete: 24 minutes
