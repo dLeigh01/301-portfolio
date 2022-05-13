@@ -19,19 +19,19 @@ Estimate of time needed to complete: 15 min
 
 Start time: 2:53
 
-Finish time:
+Finish time: 3:15
 
-Actual time needed to complete:
+Actual time needed to complete: 22 min
 
 Number and name of feature: **#2 - Projects Section**
 
-Estimate of time needed to complete:
+Estimate of time needed to complete: 30 min
 
-Start time:
+Start time: 3:20
 
-Finish time:
+Finish time: 3:46
 
-Actual time needed to complete:
+Actual time needed to complete: 26 min
 
 Number and name of feature: **#3 - Skills and Experience Section**
 
