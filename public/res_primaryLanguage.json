@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Dana Huffman. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "My name is Dana, and I'm in training to be a software developer. Before I decided to change careers, I was working in retail which, as most people can tell you, isn't the most stable or rewarding job. I decided to go all in on software development when I took a C++ class in college and realized I had a natural talent and a real passion for the subject. So far, I've been using JavaScript the most because it's easy to see the results of your work and it's similar to the original language that I learned and loved, but I plan to specialize into Python. Ideally, I would be able to work in an environment where I get to be creative and make things like applications. I also have previous experience in relatively specific retail fields, such as small business and everyday negligée, which makes me an ideal hire, as I have often had to do self-guided work with little to no input as well as be able to read the moods and needs of customers to switch gears as the situation calls for in different fast paced and sometimes discreet environments.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
