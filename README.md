@@ -13,7 +13,37 @@
 
 ### Time Estimates
 
-Number and name of feature:
+Number and name of feature: **#1 - About Me Page**
+
+Estimate of time needed to complete: 15 min
+
+Start time: 2:53
+
+Finish time:
+
+Actual time needed to complete:
+
+Number and name of feature: **#2 - Projects Section**
+
+Estimate of time needed to complete:
+
+Start time:
+
+Finish time:
+
+Actual time needed to complete:
+
+Number and name of feature: **#3 - Skills and Experience Section**
+
+Estimate of time needed to complete:
+
+Start time:
+
+Finish time:
+
+Actual time needed to complete:
+
+Number and name of feature: **#4 - Personalization**
 
 Estimate of time needed to complete:
 
