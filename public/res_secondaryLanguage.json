@@ -1,52 +1,32 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Dana Huffman. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Γεια σας",
+      "description": "Το όνομα μου είναι Dana, και μαθαίνω να είμαι προγραμματιστής λογισμικού. Δούλευα στο λιανικό εμπόριο μέχρι που αποφάσισα να αλλάξω καριέρα. Αποφάσισα ότι η ανάπτυξη λογισμικού ήταν η πορεία μου όταν παρακολούθησα ένα μάθημα C++ στο κολέγιο. Ανακάλυψα ότι είχα ένα πραγματικό πάθος για το θέμα. Μέχρι τώρα στιγμής χρησιμοποιούσα περισσότερο την JavaScript γιατί είναι εύκολο να δεις το γλώσσα πως ξέρω και αγαπώ, μόνο να μαθαίνω περισσότερο Python. Θέλω να δουλεύω μέσα μια μέρος όπου μπορώ να είμαι δημιουργικός. Εγώ εμπειρία στο λιανικό εμπόριο, σαν μικρή επιχείριση και ρούχα για κάθε μέρα. Αυτό εμπειρία με κάνει καλά υποψήφιος, γιατί είχα δουλεύει μόνο με εμένα και εντοπίσει τις διαθέσεις των άλλων και αλλαγή την εμπειρία για να ταιριάζουν στις ανάγκες τους γρήγορα.",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Σχετικά με εμένα",
+        "projects": "Εργα",
+        "skills": "Δεξιότητες",
+        "experience": "Εμπορία"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Blackjack Vibes",
+        "startDate": "2022",
+        "description": "Το Code 201 τελικός μου - δουλεύουμε για αυτό έργο με τες μαθητές άπω η μάθημα μου. Παίκτες μπορούν να παίξουν blackjack με το κομπιούτερ.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/blackjack-vibes/p2.jpg",
+          "images/portfolio/blackjack-vibes/p1.jpg"
         ],
-        "url": "",
+        "url": "https://it-works-on-local.github.io/blackjack-vibes/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
             "class": "devicon-javascript-plain",
@@ -55,9 +35,33 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Gallery of Horned Beasts",
+        "startDate": "2022",
+        "description": "Μια έργο από το μάθημα Code 301. Χρειάζεται React και Bootstrap για κάνουν μια βάση δεδομένων που μπορεί να αναζητηθεί από ζώα με κέρατα.",
+        "images": [
+          "images/portfolio/gallery-of-horned-beasts/p1.jpg",
+          "images/portfolio/gallery-of-horned-beasts/p2.jpg"
+        ],
+        "url": "https://bucolic-gaufre-595405.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "Code 301 τελικός",
+        "startDate": "2022",
+        "description": "Αυτό είναι το μέρος που να βάζω το τελικός μου",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -81,35 +85,18 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Code Fellows",
+        "title": "Μαθήτρια",
+        "years": "2.2022 - Τώρα",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "CSS",
+          "HTML",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "React"
         ]
       }
     ]
