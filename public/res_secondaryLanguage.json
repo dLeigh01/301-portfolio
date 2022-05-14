@@ -1,19 +1,19 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Dana Huffman. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Γεια σας",
+      "description": "Το όνομα μου είναι Dana, και μαθαίνω να είμαι προγραμματιστής λογισμικού. Δούλευα στο λιανικό εμπόριο μέχρι που αποφάσισα να αλλάξω καριέρα. Αποφάσισα ότι η ανάπτυξη λογισμικού ήταν η πορεία μου όταν παρακολούθησα ένα μάθημα C++ στο κολέγιο. Ανακάλυψα ότι είχα ένα πραγματικό πάθος για το θέμα. Μέχρι τώρα στιγμής χρησιμοποιούσα περισσότερο την JavaScript γιατί είναι εύκολο να δεις το γλώσσα πως ξέρω και αγαπώ, μόνο να μαθαίνω περισσότερο Python. Θέλω να δουλεύω μέσα μια μέρος όπου μπορώ να είμαι δημιουργικός. Εγώ εμπειρία στο λιανικό εμπόριο, σαν μικρή επιχείριση και ρούχα για κάθε μέρα. Αυτό εμπειρία με κάνει καλά υποψήφιος, γιατί είχα δουλεύει μόνο με εμένα και εντοπίσει τις διαθέσεις των άλλων και αλλαγή την εμπειρία για να ταιριάζουν στις ανάγκες τους γρήγορα.",
       "section_name": {
-        "about": "Shetika",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Σχετικά με εμένα",
+        "projects": "Εργα",
+        "skills": "Δεξιότητες",
+        "experience": "Εμπορία"
       }
     },
     "projects": [
       {
         "title": "Blackjack Vibes",
         "startDate": "2022",
-        "description": "My code 201 final - I worked on this site with a group of amazing people and it is designed to allow the player to run blackjack against the computer and keep track of their progression.",
+        "description": "Το Code 201 τελικός μου - δουλεύουμε για αυτό έργο με τες μαθητές άπω η μάθημα μου. Παίκτες μπορούν να παίξουν blackjack με το κομπιούτερ.",
         "images": [
           "images/portfolio/blackjack-vibes/p2.jpg",
           "images/portfolio/blackjack-vibes/p1.jpg"
@@ -37,7 +37,7 @@
       {
         "title": "Gallery of Horned Beasts",
         "startDate": "2022",
-        "description": "A project for my 301 class requiring the ability to use React and Bootstrap to create a searchable database of horned beasts.",
+        "description": "Μια έργο από το μάθημα Code 301. Χρειάζεται React και Bootstrap για κάνουν μια βάση δεδομένων που μπορεί να αναζητηθεί από ζώα με κέρατα.",
         "images": [
           "images/portfolio/gallery-of-horned-beasts/p1.jpg",
           "images/portfolio/gallery-of-horned-beasts/p2.jpg"
@@ -59,9 +59,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Code 301 τελικός",
+        "startDate": "2022",
+        "description": "Αυτό είναι το μέρος που να βάζω το τελικός μου",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -85,35 +85,18 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "company": "Code Fellows",
+        "title": "Μαθήτρια",
+        "years": "2.2022 - Τώρα",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "CSS",
+          "HTML",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "React"
         ]
       }
     ]
